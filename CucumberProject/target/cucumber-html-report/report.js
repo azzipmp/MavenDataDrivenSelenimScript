@@ -81,7 +81,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 8040307654,
+  "duration": 11324250964,
   "status": "passed"
 });
 formatter.scenario({
@@ -116,32 +116,32 @@ formatter.match({
   "location": "HomeRegisterTeststep.navigatetotheflightapplication()"
 });
 formatter.result({
-  "duration": 1322462088,
+  "duration": 1597022674,
   "status": "passed"
 });
 formatter.match({
   "location": "HomeRegisterTeststep.clickonregisterlink()"
 });
 formatter.result({
-  "duration": 2883980516,
+  "duration": 2776855803,
   "status": "passed"
 });
 formatter.match({
   "location": "HomeRegisterTeststep.verifyregisterpagedispay()"
 });
 formatter.result({
-  "duration": 43767373,
+  "duration": 15901879,
   "status": "passed"
 });
 formatter.match({
   "location": "HomeRegisterTeststep.closethebrowser()"
 });
 formatter.result({
-  "duration": 1502283671,
+  "duration": 1387751140,
   "status": "passed"
 });
 formatter.after({
-  "duration": 234782,
+  "duration": 156522,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -219,7 +219,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 4868669226,
+  "duration": 6054108042,
   "status": "passed"
 });
 formatter.scenario({
@@ -272,14 +272,14 @@ formatter.match({
   "location": "HomeRegisterTeststep.navigatetotheflightapplication()"
 });
 formatter.result({
-  "duration": 1390144718,
+  "duration": 1397330585,
   "status": "passed"
 });
 formatter.match({
   "location": "HomeRegisterTeststep.clickonregisterlink()"
 });
 formatter.result({
-  "duration": 2853339976,
+  "duration": 3481331629,
   "status": "passed"
 });
 formatter.match({
@@ -300,14 +300,14 @@ formatter.match({
   "location": "UserRegisterTeststep.entervalues(String,String,String)"
 });
 formatter.result({
-  "duration": 831780665,
+  "duration": 985075310,
   "status": "passed"
 });
 formatter.match({
   "location": "UserRegisterTeststep.clickonsubmit()"
 });
 formatter.result({
-  "duration": 3197901075,
+  "duration": 3973934073,
   "status": "passed"
 });
 formatter.match({
@@ -320,22 +320,22 @@ formatter.match({
   "location": "UserRegisterTeststep.verifyusercreation(String)"
 });
 formatter.result({
-  "duration": 375728509,
+  "duration": 248600717,
   "status": "passed"
 });
 formatter.match({
   "location": "HomeRegisterTeststep.closethebrowser()"
 });
 formatter.result({
-  "duration": 1292919336,
+  "duration": 1128190511,
   "status": "passed"
 });
 formatter.after({
-  "duration": 48325,
+  "duration": 29508,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4263392407,
+  "duration": 4580352729,
   "status": "passed"
 });
 formatter.scenario({
@@ -388,14 +388,14 @@ formatter.match({
   "location": "HomeRegisterTeststep.navigatetotheflightapplication()"
 });
 formatter.result({
-  "duration": 873518394,
+  "duration": 1119672931,
   "status": "passed"
 });
 formatter.match({
   "location": "HomeRegisterTeststep.clickonregisterlink()"
 });
 formatter.result({
-  "duration": 2756799268,
+  "duration": 2820285330,
   "status": "passed"
 });
 formatter.match({
@@ -416,14 +416,14 @@ formatter.match({
   "location": "UserRegisterTeststep.entervalues(String,String,String)"
 });
 formatter.result({
-  "duration": 974496010,
+  "duration": 1254427928,
   "status": "passed"
 });
 formatter.match({
   "location": "UserRegisterTeststep.clickonsubmit()"
 });
 formatter.result({
-  "duration": 3051067424,
+  "duration": 3282228846,
   "status": "passed"
 });
 formatter.match({
@@ -436,18 +436,18 @@ formatter.match({
   "location": "UserRegisterTeststep.verifyusercreation(String)"
 });
 formatter.result({
-  "duration": 323428158,
+  "duration": 280200484,
   "status": "passed"
 });
 formatter.match({
   "location": "HomeRegisterTeststep.closethebrowser()"
 });
 formatter.result({
-  "duration": 1213817494,
+  "duration": 1157124712,
   "status": "passed"
 });
 formatter.after({
-  "duration": 40628,
+  "duration": 23949,
   "status": "passed"
 });
 });
