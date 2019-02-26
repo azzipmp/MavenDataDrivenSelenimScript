@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 50.291 sec <<< FAILURE!
+VerifyUserRegistrationTest(DataDrivenPackage.DataDrivenTest)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.io.FileNotFoundException: D:\Selenium - Java\Scripts\MavnerojectSeleniumDataDrivenTest\src\test\resources\Registration.xlsx (The system cannot find the path specified)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at DataDrivenPackage.DataDrivenTest.VerifyUserRegistrationTest(DataDrivenTest.java:58)
